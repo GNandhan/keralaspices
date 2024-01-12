@@ -1,0 +1,4 @@
+$servername = "hostbox-in31"; or localhost
+$username = "keralaspicesco_admin";
+$password = "KeralaAdmin@";
+$db = "keralaspicesco_express";
